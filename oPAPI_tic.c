@@ -5,7 +5,7 @@
 #include "oPAPI_status.h"
 
 /*
- *  oPAPI_tic -- resets hardware performance monitoring counters.
+ *  oPAPI_tic -- start hardware performance monitoring counters.
  */
 void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
 {

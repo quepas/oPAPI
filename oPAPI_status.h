@@ -6,7 +6,7 @@
 #define OPAPI_STATUS_NONE -2
 #define OPAPI_STATUS_INIT -1
 #define OPAPI_STATUS_COUNTING 0
-/* oPAPI_STATUS_1, 2, 3,... number of active counters */
+/* OPAPI_STATUS_1, 2, 3,... number of active counters */
 
 /*
  *  Set global variable oPAPI_status
