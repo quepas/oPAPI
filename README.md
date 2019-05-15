@@ -1,3 +1,5 @@
+**DEPRECATED!!!** Instead, please consider using [**mPAPI**](https://github.com/quepas/mPAPI) which works for MATLAB and Octave.
+
 # oPAPI
 
 Simple [**Octave**](https://www.gnu.org/software/octave/) API for [**PAPI**](http://icl.cs.utk.edu/papi/) (Performance Application Programming Interface).
